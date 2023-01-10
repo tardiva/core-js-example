@@ -6,7 +6,7 @@
     "start": "webpack serve --config webpack/dev.js"
   },
   "dependencies": {
-    "core-js": "3.27.1"
+    "core-js": "3.21.1"
   },
   "devDependencies": {
     "@babel/core": "7.20.2",

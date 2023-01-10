@@ -27,7 +27,7 @@ module.exports = {
               presets: [
                 ['@babel/preset-env', {
                   useBuiltIns: 'entry',
-                  corejs: '3.27.1',
+                  corejs: '3.21.1',
                   modules: 'auto',
                   targets: { esmodules: true },
                 }],
